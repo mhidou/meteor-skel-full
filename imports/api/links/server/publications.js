@@ -1,4 +1,4 @@
-// All link-related publications
+// All links-related publications
 //
 // TODO: Remove the autopublish package before adding publications
 //

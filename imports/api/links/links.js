@@ -1,4 +1,4 @@
-// Definition of the Lists collection
+// Definition of the links collection
 
 import { Mongo } from 'meteor/mongo';
 

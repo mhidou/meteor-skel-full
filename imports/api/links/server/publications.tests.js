@@ -1,4 +1,4 @@
-// Tests for the Links publications
+// Tests for the links publications
 //
 // https://guide.meteor.com/testing.html
 //
